@@ -162,6 +162,8 @@ main{
     text-align: center;
   }
   .context{
+    position: relative;
+    right: 30px;
     width: 636px;
     height: 696px;
     color: #FFF;
